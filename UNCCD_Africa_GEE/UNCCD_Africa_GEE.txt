@@ -1,4 +1,5 @@
 UNCCD_Africa_GEE
+Google Earth Engine Apps
 
 Apps URLs
 
