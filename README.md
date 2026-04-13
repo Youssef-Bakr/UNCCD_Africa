@@ -1,6 +1,11 @@
 # UNCCD_Africa
 United Nations Convention to Combat Desertification (UNCCD) in Africa
 
+(with focus on Nubian Sandstone Aquifer System)
+
+Nubian Sandstone Aquifer System (NSAS) Digital Twin
+AquaTrans2NSAS
+
 (open source "unofficial GitHub repo") 
 
 ## Country profiles
