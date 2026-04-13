@@ -1,9 +1,9 @@
 # UNCCD_Africa
 United Nations Convention to Combat Desertification (UNCCD) in Africa
 
-(The main focus is Nubian Sandstone Aquifer System,
+(The main focus is the Nubian Sandstone Aquifer System NSAS,
 
-Nubian Sandstone Aquifer System (NSAS) Digital Twin,
+NSAS Digital Twin,
 
 TransAqua2NSAS,
 
