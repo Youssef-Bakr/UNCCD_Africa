@@ -1,5 +1,6 @@
 # UNCCD_Africa
-Open Source Repo to Support UNCCD activities in Egypt and Africa.  United Nations Convention to Combat Desertification (UNCCD) 
+United Nations Convention to Combat Desertification (UNCCD) in Africa
+(Open Source "unofficial GitHub repo") 
 
 ## Country profiles
 
