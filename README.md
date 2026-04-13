@@ -1,7 +1,7 @@
 # UNCCD_Africa
 United Nations Convention to Combat Desertification (UNCCD) in Africa
 
-(Open Source "unofficial GitHub repo") 
+(open source "unofficial GitHub repo") 
 
 ## Country profiles
 
