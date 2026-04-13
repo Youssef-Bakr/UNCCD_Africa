@@ -1,2 +1,14 @@
 # UNCCD_Africa
 Open Source Repo to Support UNCCD activities in Egypt and Africa.  United Nations Convention to Combat Desertification (UNCCD) 
+
+
+Conference of the Parties (COP) (17)
+
+https://www.unccd.int/our-work-impact/country-profiles/egypt
+
+
+https://www.unccd.int/convention/official-documents/cop-17-ulaanbaatar-mongolia-2026
+
+
+
+https://maps.app.goo.gl/3eXHgaRg7emDKkdc7
