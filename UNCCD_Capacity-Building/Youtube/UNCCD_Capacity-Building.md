@@ -1,4 +1,6 @@
-# The Capacity Building Marketplace (CBM) Team comprises a young, multi-cultural, dynamic and innovative roster, which believes that standing up for environmental action towards Sustainable Development follows the principle 'For PEOPLE, By PEOPLE'.
+# 'For PEOPLE, By PEOPLE'
+## The Capacity Building Marketplace (CBM) Team comprises a young, multi-cultural, dynamic and innovative roster, which believes that standing up for environmental action towards Sustainable Development follows the principle 
+# 'For PEOPLE, By PEOPLE'.
 
 ## https://www.youtube.com/@unccdcapacitybuildingmarke210/playlists
 
